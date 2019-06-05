@@ -16,6 +16,7 @@ public class Part6 {
         }
     }
 
+    
     public static boolean check(int a) {
         for (int j = TWO; j < a; j++) {
             if (a % j == 0) {
